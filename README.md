@@ -1,4 +1,4 @@
-# 🛍️ Advanced Mall Customer Segmentation - A Streamlit App
+# 🛍️ Advanced Mall Customer Segmentation Using K-Means Clustering and Principal Component Analysis
 
 An interactive dashboard to segment mall customers with machine learning. This project applies advanced clustering, visual analytics, and actionable recommendations to help data-driven marketing.
 
@@ -19,7 +19,7 @@ An interactive dashboard to segment mall customers with machine learning. This p
 ### Clone Repository
 
 ```bash
-git clone [https://github.com/kanishkasrm2027/mall_customer_segmentation.git](https://github.com/kanishkasrm2027/mall_customer_segmentation.git)
+git clone https://github.com/kanishkasrm2027/mall_customer_segmentation.git
 cd mall_customer_segmentation
 ```
 
