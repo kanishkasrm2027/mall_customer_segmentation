@@ -1,4 +1,4 @@
-# 🛍️ Advanced Mall Customer Segmentation (Streamlit App)
+# 🛍️ Advanced Mall Customer Segmentation - A Streamlit App
 
 An interactive dashboard to segment mall customers with machine learning. This project applies advanced clustering, visual analytics, and actionable recommendations to help data-driven marketing.
 
