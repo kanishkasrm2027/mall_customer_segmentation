@@ -2,6 +2,9 @@
 
 An interactive dashboard to segment mall customers with machine learning. This project applies advanced clustering, visual analytics, and actionable recommendations to help data-driven marketing.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mall-customer-segmentation-k-means-pca.streamlit.app/)
+
+
 ## 🚀 Features
 
 -   **Data Exploration**: Instantly view customer data with preprocessing and encoding.
@@ -16,8 +19,8 @@ An interactive dashboard to segment mall customers with machine learning. This p
 ### Clone Repository
 
 ```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/kanishkasrm2027/mall_customer_segmentation.git](https://github.com/kanishkasrm2027/mall_customer_segmentation.git)
+cd mall_customer_segmentation
 ```
 
 ### Install Dependencies
